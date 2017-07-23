@@ -22,8 +22,8 @@ h3{
 
 .navbar-brand,
 .navbar-nav li a {
-    line-height: 100px;
-    height: 100px;
+    line-height: 70px;
+    height: 70px;
     padding-top: 0;
 }
 
@@ -76,4 +76,13 @@ h3{
 	color:#fff;
 	font-size: 14px;
   text-align: center;
+}
+
+.myFormRow{
+	margin-top: 20px;
+}
+
+#mySubmitButton{
+	width:100%;
+	height:50px;
 }
