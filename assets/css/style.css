@@ -6,7 +6,7 @@ html{
 body{
 	font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
 	font-size: 20px;
-	padding-bottom: 50px;
+	padding-bottom: 52px;
 	color:#777777;
 	background-image: url("../images/whirlpool.png");
 }
@@ -49,7 +49,7 @@ h3{
 	margin-right: 10px;
 }
 
-.thumbnail img{
+.thumbnail{
 	margin-bottom: 0px;
 	border: none;
 }
@@ -68,6 +68,7 @@ h3{
 	width:100%;
 	height:100%;
 	display:table;
+	border-top: 2px solid #4aaaa5;
 }
 
 .copyContainer{
